@@ -60,9 +60,10 @@ With a strong foundation in software engineering and system design, I build scal
 <h2>📚 Public Contributions</h2>
 
 <ul>
-  <li>📁 Total Public Repositories: <strong><a href="https://github.com/dineshaitha?tab=repositories">Check Here</a></strong></li>
+  <li>📁 Total Public Repositories: <strong>10</strong></li>
+  <li>⭐ GitHub Stars: <em>None (yet!) — building quality over time</em></li>
   <li>📈 GitHub Profile Views: <img src="https://komarev.com/ghpvc/?username=dineshaitha&style=flat-square&color=blue" alt="Visitor badge" /></li>
-  <li>📰 Citations / Research Mentions (If Any): <em>Coming soon...</em></li>
+  <li>📰 Citations / Research Mentions: <em>Coming soon...</em></li>
 </ul>
 
 ---
