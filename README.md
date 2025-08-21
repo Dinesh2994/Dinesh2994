@@ -51,8 +51,8 @@ With a strong foundation in software engineering and system design, I build scal
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshaitha&show_icons=true&theme=github_dark&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshaitha&layout=compact&theme=github_dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinesh2994&show_icons=true&theme=github_dark&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh2994&layout=compact&theme=github_dark&hide_border=false" height="180"/>
 </div>
 
 ---
@@ -62,7 +62,7 @@ With a strong foundation in software engineering and system design, I build scal
 <ul>
   <li>📁 Total Public Repositories: <strong>10</strong></li>
   <li>⭐ GitHub Stars: <em>None (yet!) — building quality over time</em></li>
-  <li>📈 GitHub Profile Views: <img src="https://komarev.com/ghpvc/?username=dineshaitha&style=flat-square&color=blue" alt="Visitor badge" /></li>
+  <li>📈 GitHub Profile Views: <img src="https://komarev.com/ghpvc/?username=Dinesh2994&style=flat-square&color=blue" alt="Visitor badge" /></li>
   <li>📰 Citations / Research Mentions: <em>Coming soon...</em></li>
 </ul>
 
