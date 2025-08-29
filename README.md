@@ -1,4 +1,11 @@
+# Hi 👋 I'm Aitha Dinesh
 
+## 🌟 About Me
+I’m a pre-final year student at **SR University**, passionate about **Full-Stack Development, Cloud, and Open-Source Contribution**.  
+I enjoy building **scalable applications**, exploring **system design**, and learning new technologies to solve real-world problems.  
+Welcome to my GitHub — the world of **Open-Source opportunities**! 🌍
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dinesh-aitha-384553291) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@dineshaitha29) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31062899/dinesh-aitha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshaitha7@gmail.com) 
 
