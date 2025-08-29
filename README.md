@@ -1,6 +1,6 @@
 ## 🌟 About Me
-Hiii, fellow forks & nerds! 👨‍💻  
-I’m **Aitha Dinesh**, a pre-final year student at **SR University**, diving deep into the worlds of **Full-Stack Development, Cloud, and Open-Source**.  
+##Hiii, fellow forks & nerds! 👨‍💻  
+##I’m **Aitha Dinesh**, a pre-final year student at **SR University**, diving deep into the worlds of **Full-Stack Development, Cloud, and Open-Source**.  
 When I’m not coding, I’m probably debugging mysteries, exploring new tech stacks, or contributing to projects that make a difference.  
 Welcome to my **GitHub playground** — let’s fork, build, and learn together! 🚀
 ---
